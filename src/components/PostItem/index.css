@@ -1,0 +1,16 @@
+.body {
+  color: #ffffff;
+}
+.title {
+  color: red;
+}
+.post {
+  height: 300px;
+  width: 300px;
+  list-style-type: none;
+  background-color: green;
+}
+.post-item {
+  background-color: bisque;
+  display: flex;
+}
